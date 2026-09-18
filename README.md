@@ -11,8 +11,8 @@
   </a>
 </div>
 
-> **"YOUR TAGLINE ONE"**  
-> **"YOUR TAGLINE TWO"**
+> **"Transforming business operations through automation"**  
+> **"Building solutions and automations that leverage AI to streamline operations"**
 
 ---
 
@@ -108,7 +108,7 @@ I'm interested in collaborating on computer vision and medical imaging projects.
 
 <div align="center">
 
-**"YOUR CLOSING LINE"**
+**"Tech Innovator | Microsoft Power Platform Developer | AI x Intelligent Automation Enthusiast"**
 
 ⭐ From [bykeal](https://github.com/bykeal)
 
