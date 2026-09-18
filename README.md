@@ -133,8 +133,8 @@ More detail on my [portfolio](https://bykeal.github.io/). Client details are red
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bykeal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bykeal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="180" alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=bykeal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" alt="Top languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bykeal&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=bykeal&theme=tokyonight&hide_border=true" />
 
